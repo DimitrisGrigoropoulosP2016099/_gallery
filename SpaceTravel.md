@@ -2,7 +2,7 @@
 author: DimitrisGrigoropoulosP2016099
 title: Space-travel-1969
 year: 1969
-image_url: /images/Space_Travel_Screenshot.png 
+image_url: /images/SpaceTravel.png 
 caption: ‘To Space Travel είναι ένα πρώιμο βιντεοπαιχνίδι που αναπτύχτηκε από τον Ken Thompson το 1969 και προσομοιώνει τα ταξίδια στο ηλιακό σύστημα .Ο παίκτης πετά το πλοίο του γύρω από ένα δισδιάστατο μοντέλο κλίμακας του ηλιακού συστήματος χωρίς στόχους εκτός από την προσπάθεια προσγείωσης  σε διαφόρους πλανήτες και φεγγάρια . Το παιχνίδι αναπτύχτηκε στο Bell labs , ως μέρος της μεταφοράς του παιχνιδιού στο PDP-7,ο Thompson ανέπτυξε  το δικό του λειτουργικό σύστημα το οποίο αργότερα σχημάτισε το πυρήνα του λειτουργικού συστήματος Unix’
 license_url: 'https://idsoftware.com' 
 license_text: Courtesy of Bell labs 
